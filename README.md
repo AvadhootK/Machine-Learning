@@ -5,9 +5,6 @@
 ## 2) Iris Dataset Analysis - Classification
 - Exploratory Data Analysis on iris dataset is done.
 - Classification of flower species is done using following algorithms:
-1. Logistic Regression
-  - Accuracy : 97.77%
-2. K-nearest neighbours
-  - Accuracy : 97.77%
-3. Decision Trees
-  - Accuracy : 97.77%
+1. Logistic Regression (Accuracy : 97.77%)
+2. K-nearest neighbours (Accuracy : 97.77%)
+3. Decision Trees (Accuracy : 97.77%)
