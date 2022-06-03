@@ -1,12 +1,14 @@
 # Machine Learning Projects
 ## 1) Bank Customer Stay Prediction
-- An Artificial neural network is created and trained to predict whether the customer should stay with the bank or leave based on the given historical data.
+- Built and trained an artificial neural network to predict whether the customer should stay with the bank or leave based on the given historical data.
 - Accuracy of ANN is 86.1%.
 ## 2) Breast Cancer Detection
 - Logistic Regression model is trained to detect breast cancer.
 - Accuracy of the model is 96.87%.
-## 3) Iris Dataset Analysis - Classification
-- Exploratory Data Analysis on Iris flower dataset is done.
+## 3) Image Recognition - Cats and Dogs
+- Built and trained a convolutional neural network to identify whether the image is of cat or a dog. 
+## 4) Iris Dataset Analysis - Classification
+- Exploratory Data Analysis(EDA) on Iris flower dataset.
 - Classification of flower species is done using following algorithms:
 1. Logistic Regression (Accuracy : 97.77%)
 2. K-nearest neighbours (Accuracy : 97.77%)
