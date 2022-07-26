@@ -21,3 +21,5 @@
 - Two models are trained to predict the price of houses : 
     1. Gradient Boosting Regressor : Accuracy - 90.19%.
     2. Extra Trees Regressor : Accuracy - 91.64%.
+## 7) Natural Language Processing
+- Resume text cleaning using NLP.
