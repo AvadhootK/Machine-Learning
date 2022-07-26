@@ -17,7 +17,7 @@
 - Customer reviews of resturants are classified as 'good review' or 'bad review' using natural language processing.
 - Accuracy of the model : 72%.
 ## 6) House Prices - Advanced Regression
-- House prices are predicted based on features of house like location, rooms, area, garage, year sold etc.
+- Machine learning for predicting house prices to determine the selling price of a house based on various features using advanced regression techniques.
 - Two models are trained to predict the price of houses : 
     1. Gradient Boosting Regressor : Accuracy - 90.19%.
     2. Extra Trees Regressor : Accuracy - 91.64%.
