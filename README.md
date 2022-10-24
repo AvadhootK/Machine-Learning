@@ -1,7 +1,7 @@
 # Machine Learning Projects
 ## 1) Bank Customer Churn Prediction
 - Built and trained an artificial neural network to predict whether the customer leaves or stays with the bank based on their historical record with the bank.
-- Accuracy of ANN : 86.1%.
+- Accuracy of ANN : 86%.
 ## 2) Breast Cancer Detection
 - Logistic Regression model is trained to detect breast cancer.
 - Accuracy of the model : 96.87%.
