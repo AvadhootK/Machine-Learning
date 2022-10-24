@@ -1,6 +1,6 @@
 # Machine Learning Projects
-## 1) Bank Customer Stay Prediction
-- Built and trained an artificial neural network to predict whether the customer should stay with the bank or leave based on the given historical data.
+## 1) Bank Customer Churn Prediction
+- Built and trained an artificial neural network to predict whether the customer leaves or stays with the bank based on the given historical data.
 - Accuracy of ANN : 86.1%.
 ## 2) Breast Cancer Detection
 - Logistic Regression model is trained to detect breast cancer.
