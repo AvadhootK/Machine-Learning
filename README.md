@@ -1,25 +1,58 @@
 # Machine Learning Projects
-## 1) Bank Customer Churn Prediction
-- Built and trained an artificial neural network to predict whether the customer leaves or stays with the bank based on their historical record with the bank.
-- Accuracy of ANN : 86%.
-## 2) Breast Cancer Detection
-- Logistic Regression model is trained to detect breast cancer.
-- Accuracy of the model : 96.87%.
-## 3) Image Recognition - Cats and Dogs
-- Built and trained a convolutional neural network to identify whether the image is of cat or a dog. 
-## 4) Iris Dataset Analysis - Classification
-- Exploratory Data Analysis(EDA) on Iris flower dataset.
-- Classification of flower species is done using following algorithms:
-1. Logistic Regression (Accuracy : 97.77%)
-2. K-nearest neighbours (Accuracy : 97.77%)
-3. Decision Trees (Accuracy : 97.77%)
-## 5) Sentiment analysis
-- Customer reviews of resturants are classified as 'good review' or 'bad review' using natural language processing.
-- Accuracy of the model : 72%.
-## 6) House Prices - Advanced Regression
-- Machine learning for predicting house prices to determine the selling price of a house based on various features using advanced regression techniques.
-- Two models are trained to predict the price of houses : 
-    1. Gradient Boosting Regressor : Accuracy - 90.19%.
-    2. Extra Trees Regressor : Accuracy - 91.64%.
-## 7) Natural Language Processing
-- Resume text cleaning using NLP.
+
+A collection of end-to-end machine learning projects built using Python, scikit-learn, TensorFlow/Keras, and NLP libraries, covering applications in classification, regression, image recognition, and natural language processing.
+
+
+## 1. Bank Customer Churn Prediction
+
+- Developed an Artificial Neural Network (ANN) to predict whether a customer is likely to leave the bank based on their historical records (e.g., tenure, credit score, balance).
+- Achieved an accuracy of 86% on the test set.
+- Technologies: Python, Keras, Pandas, scikit-learn
+
+
+## 2. Breast Cancer Detection
+
+- Implemented a Logistic Regression model to classify tumors as malignant or benign using diagnostic features from the UCI Breast Cancer dataset.
+- Model achieved a high accuracy of 96.87%.
+- Technologies: Python, scikit-learn, Matplotlib, Seaborn
+
+
+## 3. Image Classification – Cats vs. Dogs
+
+- Built and trained a Convolutional Neural Network (CNN) to classify images as either cats or dogs.
+- Used data augmentation and dropout for better generalization.
+- Technologies: TensorFlow/Keras, OpenCV, CNNs
+
+
+## 4. Iris Dataset Classification
+
+- Performed Exploratory Data Analysis (EDA) on the Iris dataset and built multiple classification models to predict flower species.
+- Models & Accuracy:
+  - Logistic Regression: 97.77%
+  - K-Nearest Neighbors (KNN): 97.77%
+  - Decision Trees: 97.77%
+- Technologies: Python, scikit-learn, Pandas, Matplotlib
+
+
+## 5. Sentiment Analysis on Restaurant Reviews
+
+- Applied Natural Language Processing techniques to clean and vectorize customer reviews.
+- Built a classifier to determine whether a review is positive or negative.
+- Achieved 72% accuracy.
+- Technologies: NLTK, scikit-learn, Bag-of-Words
+
+
+## 6. House Prices Prediction – Advanced Regression
+
+- Built regression models to predict housing prices based on features such as area, number of rooms, and location.
+- Algorithms & Accuracy:
+  - Gradient Boosting Regressor – 90.19%
+  - Extra Trees Regressor – 91.64%
+- Technologies: Python, scikit-learn, XGBoost, Seaborn
+
+
+## 7. Resume Parsing with NLP
+
+- Cleaned and preprocessed resume text using NLP techniques (tokenization, stopword removal, lemmatization).
+- Created structured features from unstructured resume data for downstream tasks like skill extraction and classification.
+- Technologies: Python, spaCy, NLTK, Regular Expressions
